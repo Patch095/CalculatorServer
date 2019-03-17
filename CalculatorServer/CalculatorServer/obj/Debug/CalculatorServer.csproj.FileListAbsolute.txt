@@ -1,0 +1,7 @@
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer\obj\Debug\CalculatorServer.csprojAssemblyReference.cache
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer\obj\Debug\CalculatorServer.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer\bin\Debug\CalculatorServer.exe.config
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer\bin\Debug\CalculatorServer.exe
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer\bin\Debug\CalculatorServer.pdb
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer\obj\Debug\CalculatorServer.exe
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer\obj\Debug\CalculatorServer.pdb

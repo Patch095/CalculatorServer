@@ -1,0 +1,17 @@
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.csprojAssemblyReference.cache
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\bin\Debug\nunit.engine.dll
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\bin\Debug\nunit.engine.api.dll
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\bin\Debug\CalculatorServer.Test.dll
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\bin\Debug\CalculatorServer.Test.pdb
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\bin\Debug\CalculatorServer.exe
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\bin\Debug\nunit.framework.dll
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\bin\Debug\CalculatorServer.pdb
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\bin\Debug\CalculatorServer.exe.config
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\bin\Debug\nunit.framework.pdb
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\bin\Debug\nunit.framework.xml
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.csproj.CopyComplete
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.dll
+C:\Users\Tommaso\source\repos\CalculatorServer\CalculatorServer.Test\obj\Debug\CalculatorServer.Test.pdb
